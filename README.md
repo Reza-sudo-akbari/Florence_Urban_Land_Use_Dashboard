@@ -39,3 +39,6 @@ This project analyses land-use patterns in Florence using OpenStreetMap data, QG
 - Bar chart
 - Pie chart
 - Power BI dashboard
+## Florence_landuse_map.png
+https://github.com/Reza-sudo-akbari/Florence_Urban_Land_Use_Dashboard/blob/main/QGIS_MAP.png?raw=true
+## Landuse_bar_chart.png & Landuse_pie_chart.png
